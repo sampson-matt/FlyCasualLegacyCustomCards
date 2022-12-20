@@ -1,10 +1,10 @@
 # Fly Casual Legacy Custom Cards
 
-Repository for Pilot Cards based on AMG Scenario Packs adhering to X-Wing Legacy "Left-Side legal" rules created primarily to support the Fly Casual Legacy app
+Repository for Pilot Cards based on AMG Scenario Packs adhering to X-Wing Legacy "Left-Side legal" rules 
 
 Notes:
+* These were created primarily for use in my Fly Casual Legacy fork (link below)
 * These were all created using the custom card features at Infinite Arenas
-
 
 Links:
 * [Infinite Arenas](https://infinitearenas.com/)
